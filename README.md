@@ -26,6 +26,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinu-07/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dinu-07/leetcode_solutions/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
