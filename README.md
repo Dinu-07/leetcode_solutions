@@ -16,6 +16,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 <!---LeetCode Topics End-->
