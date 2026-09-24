@@ -30,6 +30,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinu-07/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
