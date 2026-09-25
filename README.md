@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Dinu-07/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
