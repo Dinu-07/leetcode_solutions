@@ -11,6 +11,7 @@
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [1185-day-of-the-week](https://github.com/Dinu-07/leetcode_solutions/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Dinu-07/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
 |  |
 | ------- |
