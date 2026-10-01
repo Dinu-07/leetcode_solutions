@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dinu-07/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dinu-07/leetcode_solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Dinu-07/leetcode_solutions/tree/master/0258-add-digits) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dinu-07/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinu-07/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -65,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
