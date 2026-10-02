@@ -4,9 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            nums[i] *= nums[i]
-        nums.sort()
-        return nums
-
+        list_ = [i*i for i in nums]
+        list_.sort()
+        return list_
         
