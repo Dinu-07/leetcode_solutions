@@ -23,6 +23,7 @@
 | [0058-length-of-last-word](https://github.com/Dinu-07/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Dinu-07/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
@@ -86,6 +87,7 @@
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Dinu-07/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Dinu-07/leetcode_solutions/tree/master/0575-distribute-candies) |
@@ -109,6 +111,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -136,4 +139,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dinu-07/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
