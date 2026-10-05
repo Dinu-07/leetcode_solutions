@@ -28,6 +28,7 @@
 | [0500-keyboard-row](https://github.com/Dinu-07/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3110-score-of-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3110-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
 |  |
