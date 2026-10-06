@@ -10,6 +10,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Dinu-07/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [1185-day-of-the-week](https://github.com/Dinu-07/leetcode_solutions/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
