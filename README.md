@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dinu-07/leetcode_solutions/tree/master/0066-plus-one) |
@@ -108,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
