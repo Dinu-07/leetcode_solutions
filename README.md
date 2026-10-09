@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dinu-07/leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0048-rotate-image) |
@@ -90,6 +91,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dinu-07/leetcode_solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
