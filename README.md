@@ -48,6 +48,7 @@
 | [0048-rotate-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dinu-07/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinu-07/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dinu-07/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dinu-07/leetcode_solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -111,6 +113,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -126,6 +129,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -167,4 +171,9 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
