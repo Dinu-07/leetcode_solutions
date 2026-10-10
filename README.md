@@ -60,6 +60,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinu-07/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Dinu-07/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3921-score-validator](https://github.com/Dinu-07/leetcode_solutions/tree/master/3921-score-validator) |
@@ -115,6 +116,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinu-07/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Dinu-07/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
 | ------- |
