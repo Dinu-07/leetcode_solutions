@@ -64,6 +64,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dinu-07/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3921-score-validator](https://github.com/Dinu-07/leetcode_solutions/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
