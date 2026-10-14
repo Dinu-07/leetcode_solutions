@@ -66,6 +66,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dinu-07/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2404-most-frequent-even-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3921-score-validator](https://github.com/Dinu-07/leetcode_solutions/tree/master/3921-score-validator) |
@@ -114,6 +115,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2404-most-frequent-even-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
@@ -140,6 +142,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2404-most-frequent-even-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String Matching
