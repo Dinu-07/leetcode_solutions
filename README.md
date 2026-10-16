@@ -13,6 +13,7 @@
 | [0258-add-digits](https://github.com/Dinu-07/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dinu-07/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [1185-day-of-the-week](https://github.com/Dinu-07/leetcode_solutions/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Dinu-07/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dinu-07/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
