@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Dinu-07/leetcode_solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Dinu-07/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dinu-07/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -91,6 +92,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dinu-07/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dinu-07/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
@@ -181,6 +183,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dinu-07/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dinu-07/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
