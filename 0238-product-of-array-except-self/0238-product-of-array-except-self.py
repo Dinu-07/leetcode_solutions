@@ -4,17 +4,21 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        n = len(nums)
-        ans = [1] * n
-        left = 1
-        for i in range(n):
-            ans[i] = left
-            left *= nums[i]
-        right = 1
-        for i in range(n-1, -1 ,-1):
-            ans[i] *= right
-            right *= nums[i]
-        return ans
+        zero = 0
+        total = 1
+        for i in nums:
+            if i == 0:
+                zero +=1
+            else :
+                total *= i
+        if zero >1:
+            result = [0 *x for x in nums]
+        elif zero == 1:
+            result = [0 if x!=0 else total for x in nums]
+        else:
+            result = [total / x for x in nums]
+        return result
 
 
-        
+
+       
