@@ -4,9 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        result = {}
+        result = 0
         for i in nums:
-            result[i] = result.get(i,0) + 1
-        for freq in result:
-            if result[freq] == 1:
-                return freq
+            result = result^i
+        return result
