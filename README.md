@@ -62,6 +62,7 @@
 | [0169-majority-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dinu-07/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dinu-07/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Dinu-07/leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dinu-07/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Dinu-07/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Dinu-07/leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dinu-07/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
