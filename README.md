@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dinu-07/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Dinu-07/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Dinu-07/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Dinu-07/leetcode_solutions/tree/master/1185-day-of-the-week) |
@@ -33,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/Dinu-07/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Dinu-07/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Dinu-07/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dinu-07/leetcode_solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Dinu-07/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Dinu-07/leetcode_solutions/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dinu-07/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
