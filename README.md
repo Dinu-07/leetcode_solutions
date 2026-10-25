@@ -22,6 +22,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/Dinu-07/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Dinu-07/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dinu-07/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -83,6 +84,7 @@
 | [2404-most-frequent-even-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3452-sum-of-good-numbers](https://github.com/Dinu-07/leetcode_solutions/tree/master/3452-sum-of-good-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dinu-07/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3921-score-validator](https://github.com/Dinu-07/leetcode_solutions/tree/master/3921-score-validator) |
