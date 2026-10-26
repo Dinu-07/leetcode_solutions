@@ -233,4 +233,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dinu-07/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Dinu-07/leetcode_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
