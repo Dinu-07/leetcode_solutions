@@ -79,6 +79,7 @@
 | [0575-distribute-candies](https://github.com/Dinu-07/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/Dinu-07/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/Dinu-07/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinu-07/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dinu-07/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
