@@ -1,7 +1,8 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
         count = 0
-        for i in words :
+        allowed = set(allowed)
+        for i in words:
             for j in i:
                 if j in allowed:
                     pass
@@ -10,7 +11,3 @@ class Solution:
             else:
                 count += 1
         return count
-
-                
-
-        
