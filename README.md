@@ -104,6 +104,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Dinu-07/leetcode_solutions/tree/master/2942-find-words-containing-character) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dinu-07/leetcode_solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dinu-07/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3452-sum-of-good-numbers](https://github.com/Dinu-07/leetcode_solutions/tree/master/3452-sum-of-good-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dinu-07/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
