@@ -111,6 +111,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dinu-07/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3452-sum-of-good-numbers](https://github.com/Dinu-07/leetcode_solutions/tree/master/3452-sum-of-good-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dinu-07/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dinu-07/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3921-score-validator](https://github.com/Dinu-07/leetcode_solutions/tree/master/3921-score-validator) |
 ## Dynamic Programming
@@ -175,6 +176,7 @@
 | [2404-most-frequent-even-element](https://github.com/Dinu-07/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dinu-07/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dinu-07/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3731-find-missing-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Dinu-07/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -190,6 +192,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinu-07/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinu-07/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Dinu-07/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3731-find-missing-elements](https://github.com/Dinu-07/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
